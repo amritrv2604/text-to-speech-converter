@@ -1,4 +1,4 @@
-# DigitalClock
+# Text2Speech
 
 - A user-friendly text-to-speech converter application.
 - Allows you to input text and convert it into spoken audio.
